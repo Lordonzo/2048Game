@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+    color: #534A31;
+}
+
+html, body {
+    height: 100%;
+    background-color: #EEE4DA;
+}
+
+div.body {
+    height: 100%;
+    width: 60%;;
+    margin: auto;
+    display: flex;
+}
+
+.body div.form {
+    height: 50%;
+    width: 60%;
+    margin: auto;
+    margin-top: 100px;
+    display: block;
+}
+
+#log {
+    height: 100%;
+    background-color: #BCAD9F;
+}
+
+#log h3 {
+    height: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+}
+
+#log form {
+    height: 80%;
+}
+
+#log div.infos {
+    display: grid;
+    height: 50%;
+    text-align: center;
+    justify-content: center;
+}
+
+.form input {
+    height: 50%;
+    width: 100%;
+}
+
+.form div {
+    display: flex;
+}
+
+div.pseudo {
+    margin-top: 20px;
+}
+div.pass {
+    margin-bottom: 20px;
+}
+
+div label {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+}
+
+.infos input {
+    height: 30px;
+    width: 60%;
+    margin: 0 auto;
+    display: flex;
+    align-self: center;
+}
+
+.infos p {
+    font-size: large;
+    align-self: center;
+}
+
+.infos .error {
+    color: darkred;
+}
+
+.sub {
+    align-items: center;
+    justify-content: center;
+    height: 50%;
+}
+
+.sub input {
+    width: 60%;
+    height: 40%;
+    margin-bottom: 30px;
+}
+
+.sub .player {
+    height: 30%;
+    margin: 70px 20px 30px 20px;
+}

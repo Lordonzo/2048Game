@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ef6f87d-898a-49b5-a860-b0970975c3a8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kqRVRBcOSShmfY5RzEf41Y9Vdh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ef6f87d-898a-49b5-a860-b0970975c3a8" name="Default Changelist" comment="" />
+      <created>1606426160936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606426160936</updated>
+      <workItem from="1606426162962" duration="4404000" />
+      <workItem from="1606465032488" duration="27192000" />
+      <workItem from="1606512276612" duration="2360000" />
+      <workItem from="1606733584110" duration="6137000" />
+      <workItem from="1606932386157" duration="12930000" />
+      <workItem from="1607071030814" duration="9782000" />
+      <workItem from="1607083957396" duration="14714000" />
+      <workItem from="1607497771437" duration="2703000" />
+      <workItem from="1607532330278" duration="4226000" />
+      <workItem from="1607695452169" duration="16000" />
+      <workItem from="1607695485371" duration="3136000" />
+      <workItem from="1607702405109" duration="81000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="534" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606940389772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="534" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606940389772" />
+    <state x="747" y="250" key="#com.intellij.ide.util.MemberChooser" timestamp="1607537698725">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="747" y="250" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1607537698725" />
+    <state x="933" y="127" key="#com.intellij.ide.util.MemberChooser/0.23.1440.832@0.23.1440.832" timestamp="1607536577713" />
+    <state x="711" y="279" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1607084080444">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="711" y="279" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607084080444" />
+    <state x="700" y="404" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1606933645156">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="700" y="404" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1606933645156" />
+    <state x="722" y="289" key="FileChooserDialogImpl" timestamp="1606943226885">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="722" y="289" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606943226885" />
+    <state width="243" height="366" key="HiddenNamespacesPopup" timestamp="1607532406923">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1606940127532" />
+    <state width="243" height="366" key="HiddenNamespacesPopup/0.23.1440.832@0.23.1440.832" timestamp="1607532406923" />
+    <state x="688" y="257" key="NewPhpClassDialog" timestamp="1606472347771">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="688" y="257" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606472347771" />
+    <state x="776" y="458" key="NewPhpFileDialog" timestamp="1606734240453">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="776" y="458" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606734240453" />
+    <state x="522" y="189" key="com.intellij.database.dbimport.ImportDialog" timestamp="1607538447687">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="522" y="189" key="com.intellij.database.dbimport.ImportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607538447687" />
+    <state x="672" y="339" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog" timestamp="1607538442420">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="672" y="339" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607538442420" />
+    <state x="711" y="342" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1607085473613">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="711" y="342" key="com.jetbrains.php.test.PhpNewTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607085473613" />
+    <state x="840" y="362" key="data.grid.dml.preview.dialog" timestamp="1607092522690">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="840" y="362" key="data.grid.dml.preview.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607092522690" />
+    <state x="659" y="306" key="refactoring.ChangeSignatureDialog" timestamp="1607074171921">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="659" y="306" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607074171921" />
+    <state x="637" y="250" key="run.anything.popup" timestamp="1607538171689">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="637" y="250" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607538171689" />
+    <state x="454" y="229" width="670" height="543" key="search.everywhere.popup" timestamp="1607533939028">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="605" y="257" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607074815738" />
+    <state x="454" y="229" width="670" height="543" key="search.everywhere.popup/0.23.1440.832@0.23.1440.832" timestamp="1607533939028" />
+  </component>
+</project>

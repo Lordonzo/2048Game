@@ -1,0 +1,57 @@
+@import "main.css";
+
+#log div.infos {
+    display: flex;
+    height: 15%;
+}
+
+#log form {
+    height: 30%;
+}
+
+#log div.games {
+    height: 55%;
+    display: grid;
+}
+
+.games #game {
+    width: 70%;
+    margin: 0 auto;
+    overflow-y: auto;
+}
+
+legend {
+    margin-bottom: 10px;
+}
+
+.games p {
+    margin: auto;
+    justify-content: center;
+    height: 11%;
+    width: 70%;
+}
+
+form .sub {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+.sub .player {
+    height: 30%;
+    margin: 70px 20px 30px 20px;
+}
+
+.infos div {
+    height: 100%;
+    width: 40%;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.infos div div {
+    width: 100%;
+}

@@ -1,0 +1,143 @@
+@import 'main.css';
+
+.v2{
+    background-color: #EEE4DA!important;
+}
+
+.v4{
+    background-color: #EEE0C9!important;
+}
+
+.v8{
+    background-color: #F1B279!important;
+}
+
+.v16{
+    background-color: #F59663!important;
+}
+
+.v32{
+    background-color: #F57D5F!important;
+}
+
+.v64{
+    background-color: #F55E3B!important;
+}
+
+.case{
+    background-color: #EDCF72;
+}
+
+.v0{
+    background-color: #CCC1B3;
+    color: #CCC1B3;
+}
+
+.fas {
+    position: relative;
+    height: 20px;
+    width: 20px;
+    color: black;
+    background-color: : #F55E3B;
+}
+
+.form .top {
+    display: flex;
+    justify-content: space-between;;
+}
+
+.top p {
+    height: 100%;
+    width: 20%;
+}
+
+.top h3#title {
+    height: 100%;
+    justify-self: flex-end;
+}
+
+.form .center {
+    height: 60%;
+}
+
+.center .gameGrid {
+    display: grid;
+    grid-template: 60px 60px 60px 60px / 60px 60px 60px 60px;
+    margin: auto;
+    height: 240px;
+    width: 240px;
+    justify-items: center;
+    align-items: center;
+    border: solid 2px black;
+}
+
+.gameGrid div {
+    height: 100%;
+    width: 100%;
+    border: solid 1px black;
+    align-items: center;
+    justify-content: center;
+}
+
+#log form {
+    height: 30%;
+}
+
+#log .top {
+    height: 10%;
+}
+
+.form form {
+    display: flex;
+}
+
+.form .bott input {
+    height: 30%;
+    width: 60%;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.form .bott {
+    justify-content: flex-end;
+    align-items: flex-end;
+    display: flex;
+    height: 100%;
+    width: 60%;
+    align-self: center;
+}
+
+div.moves {
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    grid-gap: 10px;
+    grid-template: 35px 35px 35px / 35px 35px 35px ;
+    width: 40%;
+}
+
+.moves a {
+    height: 100%;
+    text-decoration: none;
+    width: auto;
+}
+
+a.fa-angle-up {
+    grid-row: 1;
+    grid-column: 2;
+}
+
+a.fa-angle-down {
+    grid-row: 3;
+    grid-column: 2;
+}
+
+a.fa-angle-right {
+    grid-row: 2;
+    grid-column: 3;
+}
+
+a.fa-angle-left {
+    grid-row: 2;
+    grid-column: 1;
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="db2048" uuid="0d8b1674-ca47-4c5e-8b96-cd92bd105dee">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\xampp\htdocs\2048Game\db2048.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="SQLite - db2048.db" uuid="b5e4cbc8-51bc-4786-8a35-29e11d5aec1d">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/db2048.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
